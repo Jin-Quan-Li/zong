@@ -30,7 +30,7 @@
     "rasterizehtml": "^1.2.4",
     "simplemde": "^1.11.2",
     "sortablejs": "^1.6.1",
-    "tinymce": "^4.7.1",
+    "tinymce": "^5.9.0",
     "vue": "^2.5.2",
     "vue-i18n": "^5.0.3",
     "vue-router": "^2.8.1",
